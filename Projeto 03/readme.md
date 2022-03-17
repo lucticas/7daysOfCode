@@ -1,7 +1,6 @@
+# Forecast
 
-Day 03.
-
-Basic API front end for https://openweathermap.org/
+> API front end for https://openweathermap.org/
 
 
 

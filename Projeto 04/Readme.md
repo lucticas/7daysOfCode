@@ -1,5 +1,6 @@
-Tic tac Toe game.
-control of areas and game logic X visual itens CSS.
+# Tic tac Toe game.
+
+> control of areas and game logic X visual itens CSS.
 
 
 
