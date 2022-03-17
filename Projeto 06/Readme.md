@@ -1,6 +1,6 @@
 # Quiz app
 
-> Score, progress bar and fetch api questions,plain JS
+> Score, progress bar and fetch api "questions",plain JS
 
 
 
